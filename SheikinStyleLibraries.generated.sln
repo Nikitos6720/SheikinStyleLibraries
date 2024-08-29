@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SheikinStyle", "SheikinStyle", "{C48FFB4C-45D2-4A3D-BB4F-CC5FE8C94B2E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SheikinStyle", "SheikinStyle", "{4393810F-5F56-405E-B763-462238A5E8BA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SSDll", "SheikinStyle\SSDll\SSDll.csproj", "{D9FD2881-4032-4649-9AD6-89948BA2166B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SSDll", "SheikinStyle\SSDll\SSDll.csproj", "{CDA76E8C-D6C4-44C8-8353-DCA4F3F74234}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D9FD2881-4032-4649-9AD6-89948BA2166B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D9FD2881-4032-4649-9AD6-89948BA2166B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D9FD2881-4032-4649-9AD6-89948BA2166B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D9FD2881-4032-4649-9AD6-89948BA2166B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA76E8C-D6C4-44C8-8353-DCA4F3F74234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA76E8C-D6C4-44C8-8353-DCA4F3F74234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA76E8C-D6C4-44C8-8353-DCA4F3F74234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA76E8C-D6C4-44C8-8353-DCA4F3F74234}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{D9FD2881-4032-4649-9AD6-89948BA2166B} = {C48FFB4C-45D2-4A3D-BB4F-CC5FE8C94B2E}
+		{CDA76E8C-D6C4-44C8-8353-DCA4F3F74234} = {4393810F-5F56-405E-B763-462238A5E8BA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E292F7E-BA2D-4AB1-8906-7B893E489604}

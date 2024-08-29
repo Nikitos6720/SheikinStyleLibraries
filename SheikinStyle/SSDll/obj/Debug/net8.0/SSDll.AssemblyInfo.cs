@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SSDll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a64b05fd73968dfeb37317182461264a7f95c3ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("SSDll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SSDll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
